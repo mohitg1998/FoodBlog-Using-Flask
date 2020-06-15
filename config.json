@@ -1,0 +1,19 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/foodheavenz",
+        "fb_url" : "https://facebook.com/foodheavenz",
+        "tw_url" : "https://twitter.com/foodheavenz",
+        "gh_url" : "https://github.com/foodheavenz",
+        "blog_name": "Food Heavenz",
+        "gmail_user" :"guptamohit963@gmail.com",
+        "gmail_password":"emailPass",
+        "about_text": "Hy My name is Mohit.I created this website",
+        "no_of_posts" : 2,
+        "login_image" : "login.svg",
+        "admin_user" :"mohit",
+        "admin_password" : "foody",
+        "upload_location" : "C:\\Users\\Mohit\\PycharmProjects\\FoodBlog\\static"
+    }
+}
